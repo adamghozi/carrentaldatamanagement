@@ -26,7 +26,7 @@ This Python code is designed to manage a database for a car rental system. It pr
     git clone https://github.com/adamghozi/carrentaldatamanagement.git
     ```
 
-2. Install dependencies (if any):
+2. Install dependencies:
 
     ```bash
     pip install regex tabulate
@@ -37,7 +37,7 @@ This Python code is designed to manage a database for a car rental system. It pr
 1. Run the main Python script:
 
     ```bash
-    python main.py
+    python Manajemen Database Rental Mobil.py
     ```
 
 2. Follow the on-screen instructions to interact with the database and perform various operations such as adding cars, managing customers, and recording rental transactions.
