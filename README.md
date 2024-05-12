@@ -23,19 +23,13 @@ This Python code is designed to manage a database for a car rental system. It pr
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/Manajemen-Database-Rental-Mobil.git
+    git clone https://github.com/adamghozi/carrentaldatamanagement.git
     ```
 
-2. Navigate to the project directory:
+2. Install dependencies (if any):
 
     ```bash
-    cd Manajemen-Database-Rental-Mobil
-    ```
-
-3. Install dependencies (if any):
-
-    ```bash
-    pip install -r requirements.txt
+    pip install regex tabulate
     ```
 
 ## Usage
